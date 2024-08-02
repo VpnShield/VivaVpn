@@ -1,10 +1,10 @@
 {
-"Title": "❌ اطلاعیه #مهم ❌",
-"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت با قطعی مواجه میشوید 🙏🏻❤️",
-"Link": "tg://join?invite=3llRC4oskv5lNWVk",
-"ColorWave": "#FFA500",
-"Color": "#FFA500",
-"ColorWaveTwo": "#CC8400",
+"Title": "♻️  اینترنت سبز  ♻️",
+"Description": "اگه بخاطر اختلالات کانفیگ v2ray بدون قطعی برای اندروید و ایفون و ویندوز و ... میخوای فورا بیا تلگرام وگرنه پشیمون میشی 👇🏻",
+"Link": "https://t.me/GreenNetwoorkBot?start=quick",
+"ColorWave": "#00C853",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#00E676",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "80371111738",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"MessageID": "92888102",
+"ShowTime": "2",
+"Button": " 🔥  دریافت کانفیگ  🔥 ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
