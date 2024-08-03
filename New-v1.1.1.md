@@ -1,1 +1,24 @@
-
+{
+"Title": "❌   بدون قطعی   ❌",
+"Description": "اگه بخاطر اختلالات کانفیگ v2ray بدون قطعی برای اندروید و ایفون و ویندوز و ... میخوای فورا بیا تلگرام وگرنه پشیمون میشی 👇🏻",
+"Link": "https://t.me/GreenNetwoorkBot?start=quick",
+"ColorWave": "#00C853",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#00E676",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "10271928",
+"ShowTime": "2",
+"Button": " 🔥 دریافت کانفیگ 🔥 ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
