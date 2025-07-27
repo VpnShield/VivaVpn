@@ -1,24 +1,24 @@
 {
-"Title": "❌ قطع اتصال شما ❌",
-"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
-"Link": "tg://join?invite=cwm-fcdxKTc1ZDY8",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FF3D00",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "center",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "2870860001",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
-"Closure": "true",
-"Show": "on"
+  "Title": "☆  بروزرسانی جدید  ☆",
+  "Description": "سلام دوست عزیزم 🌺\r\n\r\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+  "Link": "tg://resolve?domain=Vpn_Shield",
+  "ColorWave": "#ffff00",
+  "Color": "#ffff00",
+  "ColorWaveTwo": "#ffd600",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "true",
+  "MessageID": "1",
+  "ShowTime": "999",
+  "Button": "  دریافت نسخه جدید  ",
+  "ButtonCancell": " بعدا ",
+  "Closure": "true",
+  "Show": "on"
 }
